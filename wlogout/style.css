@@ -1,0 +1,66 @@
+* {
+	background-image: none;
+	box-shadow: none;
+}
+
+window {
+	background-color: rgba(12, 12, 12, 0.1);
+}
+button {
+	min-height: 150px;
+
+	color: #ffffff;
+	font-size: 20px;
+
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 25%;
+
+	border-color: transparent;
+	background-color: transparent; 
+	
+
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:focus,
+button:active, 
+button:hover {
+	color: #ffffff;
+	border: 3px solid #ffffff;
+	background-color: rgba(12, 12, 12, 0.5);
+}
+
+#lock,
+#logout,
+#suspend,
+#hibernate,
+#shutdown,
+#reboot {
+	margin: 10px;
+	border-radius: 20px;
+}
+
+#lock {
+	background-image: image(url("icons/lock.png"));
+}
+
+#logout {
+	background-image: image(url("icons/logout.png"));
+}
+
+#suspend {
+	background-image: image(url("icons/suspend.png"));
+}
+
+#hibernate {
+	background-image: image(url("icons/hibernate.png"));
+}
+
+#shutdown {
+	background-image: image(url("icons/shutdown.png"));
+}
+
+#reboot {
+	background-image: image(url("icons/reboot.png"));
+}
