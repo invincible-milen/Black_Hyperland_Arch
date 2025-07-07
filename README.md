@@ -37,11 +37,19 @@ sudo pacman -S hyprland waybar kitty thunar copyq wofi rofi wlogout
 ### 🖥️ Full Desktop Setup
 ![Desktop](https://github.com/user-attachments/assets/a50d133a-5729-4105-af56-2c9350a12f82)
 
-### 🧮 Wofi
-![Wofi](https://github.com/user-attachments/assets/2a9e1025-f854-416e-8f9f-44caf10fbc76)
+---
 
-### 🗂️ Kitty Terminal
-![Kitty](https://github.com/user-attachments/assets/7821ca07-1ae6-40be-b55e-080e03641ed2)
+<div align="center">
+
+### 🔍 Wofi & 🖮 Kitty Terminal
+
+<img src="https://github.com/user-attachments/assets/2a9e1025-f854-416e-8f9f-44caf10fbc76" width="45%" style="margin-right: 10px;" />
+<img src="https://github.com/user-attachments/assets/7821ca07-1ae6-40be-b55e-080e03641ed2" width="45%" />
+
+</div>
+
+---
 
 ### 🔒 Wlogout Menu
 ![Wlogout](https://github.com/user-attachments/assets/87030396-5b35-4b72-b2d5-0f4d3cdff593)
+
